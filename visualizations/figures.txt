@@ -1,0 +1,42 @@
+\begin{figure}[ht!]
+	\centering
+	\includesvg[width=\columnwidth]{figures/F1_score_cd__4B2A70.svg}
+	\caption{F1 score (macro avg)}
+	\label{fig:figures__F1_score_cd__4B2A70.svg}
+\end{figure}
+
+\begin{figure}[ht!]
+	\centering
+	\includesvg[width=\columnwidth]{figures/F1_score_ec__8DD351.svg}
+	\caption{F1 score (macro avg)}
+	\label{fig:figures__F1_score_ec__8DD351.svg}
+\end{figure}
+
+\begin{figure}[ht!]
+	\centering
+	\includesvg[width=\columnwidth]{figures/F1_score_cs__56FBE3.svg}
+	\caption{F1 score (macro avg)}
+	\label{fig:figures__F1_score_cs__56FBE3.svg}
+\end{figure}
+
+\begin{figure}[ht!]
+	\centering
+	\includesvg[width=\columnwidth]{figures/distribution_Semantic Scholar__576FAB.svg}
+	\caption{Distribution of abstact lengths for Semantic Scholar}
+	\label{fig:figures__distribution_Semantic Scholar__576FAB.svg}
+\end{figure}
+
+\begin{figure}[ht!]
+	\centering
+	\includesvg[width=\columnwidth]{figures/distribution_SlimPajama__3C61E0.svg}
+	\caption{Distribution of abstact lengths for SlimPajama}
+	\label{fig:figures__distribution_SlimPajama__3C61E0.svg}
+\end{figure}
+
+\begin{figure}[ht!]
+	\centering
+	\includesvg[width=\columnwidth]{figures/class_distributions__489A51.svg}
+	\caption{Class distributions}
+	\label{fig:figures__class_distributions__489A51.svg}
+\end{figure}
+

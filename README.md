@@ -1,4 +1,4 @@
-This is the repository for the COMP0087 project for the MC^2AI. The title of the project is "Domain-Specific Continued Pretraining and Downstream Task Fine-Tuning of GPT-2: Real vs. Synthetic Data Analysis".
+**This is the repository for the COMP0087 project for the MC^2AI. The title of the project is "Domain-Specific Continued Pretraining and Downstream Task Fine-Tuning of GPT-2: Real vs. Synthetic Data Analysis".**
 
 ### datasets
 This folder contains the raw and rephrased versions of the SlimPajama and Semantic Scholar datasets used in pretraining.
